@@ -1,0 +1,14 @@
+D:\Ucheba\3year\agile\laba1\Bank\bin\Debug\net8.0\Bank.exe
+D:\Ucheba\3year\agile\laba1\Bank\bin\Debug\net8.0\Bank.deps.json
+D:\Ucheba\3year\agile\laba1\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+D:\Ucheba\3year\agile\laba1\Bank\bin\Debug\net8.0\Bank.dll
+D:\Ucheba\3year\agile\laba1\Bank\bin\Debug\net8.0\Bank.pdb
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\Bank.dll
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\refint\Bank.dll
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\Bank.pdb
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+D:\Ucheba\3year\agile\laba1\Bank\obj\Debug\net8.0\ref\Bank.dll
