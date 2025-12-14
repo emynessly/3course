@@ -1,0 +1,14 @@
+D:\Ucheba\3year\agile\laba3\laba3\bin\Debug\net9.0\laba3.exe
+D:\Ucheba\3year\agile\laba3\laba3\bin\Debug\net9.0\laba3.deps.json
+D:\Ucheba\3year\agile\laba3\laba3\bin\Debug\net9.0\laba3.runtimeconfig.json
+D:\Ucheba\3year\agile\laba3\laba3\bin\Debug\net9.0\laba3.dll
+D:\Ucheba\3year\agile\laba3\laba3\bin\Debug\net9.0\laba3.pdb
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\laba3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\laba3.AssemblyInfoInputs.cache
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\laba3.AssemblyInfo.cs
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\laba3.csproj.CoreCompileInputs.cache
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\laba3.dll
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\refint\laba3.dll
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\laba3.pdb
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\laba3.genruntimeconfig.cache
+D:\Ucheba\3year\agile\laba3\laba3\obj\Debug\net9.0\ref\laba3.dll
