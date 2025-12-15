@@ -1,0 +1,14 @@
+D:\Ucheba\3year\agile\laba4\OopStart\bin\Debug\net9.0\OopStart.exe
+D:\Ucheba\3year\agile\laba4\OopStart\bin\Debug\net9.0\OopStart.deps.json
+D:\Ucheba\3year\agile\laba4\OopStart\bin\Debug\net9.0\OopStart.runtimeconfig.json
+D:\Ucheba\3year\agile\laba4\OopStart\bin\Debug\net9.0\OopStart.dll
+D:\Ucheba\3year\agile\laba4\OopStart\bin\Debug\net9.0\OopStart.pdb
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\OopStart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\OopStart.AssemblyInfoInputs.cache
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\OopStart.AssemblyInfo.cs
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\OopStart.csproj.CoreCompileInputs.cache
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\OopStart.dll
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\refint\OopStart.dll
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\OopStart.pdb
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\OopStart.genruntimeconfig.cache
+D:\Ucheba\3year\agile\laba4\OopStart\obj\Debug\net9.0\ref\OopStart.dll
