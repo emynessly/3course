@@ -1,0 +1,14 @@
+D:\Ucheba\3year\agile\laba6\Credit\bin\Debug\net9.0\Credit.exe
+D:\Ucheba\3year\agile\laba6\Credit\bin\Debug\net9.0\Credit.deps.json
+D:\Ucheba\3year\agile\laba6\Credit\bin\Debug\net9.0\Credit.runtimeconfig.json
+D:\Ucheba\3year\agile\laba6\Credit\bin\Debug\net9.0\Credit.dll
+D:\Ucheba\3year\agile\laba6\Credit\bin\Debug\net9.0\Credit.pdb
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\Credit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\Credit.AssemblyInfoInputs.cache
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\Credit.AssemblyInfo.cs
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\Credit.csproj.CoreCompileInputs.cache
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\Credit.dll
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\refint\Credit.dll
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\Credit.pdb
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\Credit.genruntimeconfig.cache
+D:\Ucheba\3year\agile\laba6\Credit\obj\Debug\net9.0\ref\Credit.dll
