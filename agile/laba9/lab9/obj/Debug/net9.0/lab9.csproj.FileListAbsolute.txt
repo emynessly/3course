@@ -1,0 +1,14 @@
+D:\Ucheba\3year\agile\laba9\lab9\bin\Debug\net9.0\lab9.exe
+D:\Ucheba\3year\agile\laba9\lab9\bin\Debug\net9.0\lab9.deps.json
+D:\Ucheba\3year\agile\laba9\lab9\bin\Debug\net9.0\lab9.runtimeconfig.json
+D:\Ucheba\3year\agile\laba9\lab9\bin\Debug\net9.0\lab9.dll
+D:\Ucheba\3year\agile\laba9\lab9\bin\Debug\net9.0\lab9.pdb
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\lab9.AssemblyInfoInputs.cache
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\lab9.AssemblyInfo.cs
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\lab9.csproj.CoreCompileInputs.cache
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\lab9.dll
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\refint\lab9.dll
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\lab9.pdb
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\lab9.genruntimeconfig.cache
+D:\Ucheba\3year\agile\laba9\lab9\obj\Debug\net9.0\ref\lab9.dll
